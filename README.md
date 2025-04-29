@@ -33,16 +33,5 @@ This is a full-stack web application built to scrape Airbnb listings and display
 
 ---
 
-## 🔧 Installation & Setup
-
-### Backend (Django)
-
-```bash
-cd backend
-python -m venv venv
-source venv/bin/activate  # For Linux/Mac
-venv\Scripts\activate  # For Windows
-
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
+## Live Link
+- https://peaceful-douhua-f828e4.netlify.app/
