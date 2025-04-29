@@ -1,7 +1,10 @@
 # 🏠 Airbnb Listings Scraper & Viewer – Full Stack Web App
 
 This is a full-stack web application built to scrape Airbnb listings and display them through a clean and responsive UI that resembles the Airbnb website.
+## Live Link
+- https://peaceful-douhua-f828e4.netlify.app/
 
+---
 ## 📌 Objective
 
 - Scrape Airbnb listings using Scrapy.
@@ -30,8 +33,3 @@ This is a full-stack web application built to scrape Airbnb listings and display
 - **Pages**:
   - **Search Results Page**: Filters based on location, date, guests, price, ratings
   - **Listing Page**: Displays full details of the selected listing
-
----
-
-## Live Link
-- https://peaceful-douhua-f828e4.netlify.app/
